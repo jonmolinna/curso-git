@@ -1,0 +1,98 @@
+commit 292e8013a84b7bb7d2dbf754ee318ebdec90a6aa
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:56:10 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 066cbf180e787c00be561120ec7296c2a8604b33
+Merge: 1f92fcb 153e574
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:51:19 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 1f92fcba55588203b0cda35626248b4ec2da0a78
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:28:37 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 153e5747c4b3ab0d2cf42caa1a29965949cfe3cf
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:28:37 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 7c7f1a2abfa81f80f2e4e4eae67449299bddd757
+Merge: 5881a1a 74b7513
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:18:47 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 74b751302581d3c5d912852c664ea5651e1699ef
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 09:01:56 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 5881a1a0bb3f17647db6e83988982c93a9af10b4
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Tue Aug 30 08:58:42 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 3aeb4051a09710812f545802aa3e55f384d9b7aa
+Merge: 5cacab8 a8e11af
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 16:50:14 2022 -0500
+
+    Merge branch 'js'
+
+commit a8e11af5f0012013fa448673e6afeb94172b96ca
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 16:40:53 2022 -0500
+
+    Creando index.js
+
+commit 5cacab86d3ea3ecdc5ca939d7b6038e63e6431d8
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 16:34:50 2022 -0500
+
+    Creando style.css
+
+commit 2bb458579649c71ad39eb4ab0449002e333f9014
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 16:27:03 2022 -0500
+
+    Creando index.html
+
+commit 78df340b02e18cd32662b58c975c3a7937c3785d
+Author: Jon <54208914+jonmolinna@users.noreply.github.com>
+Date:   Mon Aug 29 15:26:06 2022 -0500
+
+    Delete nota.txt
+
+commit 312a2e403be4f931283936076176232480a403a7
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 15:25:04 2022 -0500
+
+    Ignorando el archivo notas.txt
+
+commit 50daa4992f7f5c128d7094e39170905175cb27a9
+Author: Jon <54208914+jonmolinna@users.noreply.github.com>
+Date:   Mon Aug 29 15:20:14 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 38f0113d6497f6ab66fb90aa06623f4349e41bd2
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 15:11:36 2022 -0500
+
+    Agregando mas contenido al README
+
+commit cb1ead27ea311b62f647e1e1ebcbe453dce2a6d8
+Author: jonmolinna <jmolina2624@gmail.com>
+Date:   Mon Aug 29 14:56:04 2022 -0500
+
+    Agregando contenido inicial al README
